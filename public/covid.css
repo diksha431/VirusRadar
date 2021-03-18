@@ -1,0 +1,104 @@
+.abc{
+    font-size: 300;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: peachpuff;
+    width: 100%;
+    margin-left: -1px;
+    margin-top: 0px;
+    height: 112vh;
+    background-image: url('covid3.jpg');
+}
+.xyz{
+    background-color: peachpuff;
+    width: 53%;
+    margin-left: 84px;
+    margin-top: -22px;
+    height: 111vh;
+    <img src={covid3.jpg} width="500" height="600"/>
+}
+.qwe{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 27px;
+    margin-top: 32px;
+    font-size: 32px;
+}
+.rty{
+    margin-top: -4px;
+    margin-left: 11px;
+    border-spacing: 4px;
+}
+.iop{
+    width: 273px;
+    padding: 6px 8px;
+    margin: -4px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #bdc7d8;
+}
+.uio{
+    width: 551px;
+    padding: 6px 8px;
+    margin: 6px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #bdc7d8;
+}
+.asd{
+    margin-right: 50px;
+    color:black;
+    font-size: 19px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fgh{
+    color: #1d2129;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.jkl{
+    height: 35px;
+    font-size: 13px;
+    padding: 7px;
+    color: #1c1e21;
+    width: 99px;
+    font-size: 17px;
+}
+.zxc{
+    height: 34px;
+    font-size: 13px;
+    padding: 7px;
+    color: #1c1e21;
+    width: 200px;
+    font-size: 17px;
+}
+.vbn{
+    height: 34px;
+    font-size: 13px;
+    padding: 7px;
+    color: #1c1e21;
+    width: 551px; 
+    font-size: 17px; 
+}
+.nmz{
+    background-color: #4CAF50;
+    border: black;
+    color: white;
+    padding: 7px 73px;
+    text-decoration: none;
+    margin: -9px 126px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+}
+.stats{
+
+    color:"white";
+}

@@ -1,0 +1,135 @@
+.hp1{
+    margin-bottom: 1em;
+    width: 16.3em;
+}
+.hp3{
+    font-size: 1vh;
+}
+.hp4{
+    color: slategray;
+}
+.hp5{
+    font-size: 4.2vh;
+    font-weight: bold;
+}
+.hp10{
+   font-size: 1.2rem;
+}
+.hptest
+{
+    margin-bottom: 1em;
+    width: 22em;
+    height: 4em;
+}
+.test1
+{
+    font-size: 1.15rem;
+    color: black;
+    font-weight: 400;
+}
+.test2
+{
+    padding-left: 30vh;
+}
+.test3{
+    margin-left: 18em;
+    margin-top:-1.5em;
+    height: 1em;
+    cursor:pointer;
+}
+.guard1
+{
+    height: 82vh;
+    padding-top: 7em;
+    background-image: url('covid23.jpg');
+    background-size: cover;
+}
+.guard2
+{
+    font-size: 1rem;
+    color: aliceblue;
+    font-weight: 500; 
+}
+::placeholder{
+    color: aliceblue;
+}
+.s1{
+    font-size: 1rem;
+    font-weight: bold;
+}
+.s2{
+    margin-bottom: 1.5em;
+    width: 27em;
+}
+.s3{
+    color: #151a1d;
+    font-family: poppinsregular;
+    font-size: 0.8rem;
+    text-align:justify;
+}
+.check1{
+    margin-bottom:2vh;
+    height:3.3em;
+    padding-right:14em;
+    font-weight: bold;
+}
+.check2
+{
+    font-size: 2.8vh;
+    color: black;
+    font-weight: 500;  
+}
+.ch1{
+    height: 8em;
+    width: 20em;
+    cursor:alias;
+}
+.dot{
+    height: 200em;
+    width: 200em;
+    background-color: lightgreen;
+    border-radius: 50%;
+}
+.dot {
+    width: 200px;
+    height: 100px;
+    background: pink;
+    border-radius: 100px / 50px;
+  }
+.main{
+    height: 32em;
+    width: 44em;
+    margin-left: 30em;
+    margin-top: -31em;
+    background-image: url('admin1.jpg');
+    background-repeat: round;
+}
+.main1{
+    height: 5em;
+    width: 37em;
+}
+.main2{
+    height: 34em;
+    width: 28em;
+}
+.main3{
+    
+    height: 5em;
+    width: 30em;
+    margin-left: 2em;
+}
+.co1{
+    color: white;
+}
+.pol{
+    height:5em;
+    width:100%;
+}
+.pol1{
+    color: black;
+    margin-left: 2em;
+    padding: 0.5em;
+    font-weight: bold;
+    font-size: 3em;
+}
+  
